@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Laysla Rayssa 👋🏽
 
 - 🌱 Estudando Desenvolvimento Web JAVA
-- 🎀 Pronome: ela/dela
+- 👩🏾‍💻 Pronome: ela/dela
 
 ##
 
