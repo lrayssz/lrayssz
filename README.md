@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Laysla Rayssa 👋🏽
 
 - 🌱 Desenvolvedora Web Front-End
-- 👩🏾‍💻 Pronome: ela/dela
 
 ##
 
